@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){var buyNowButton=document.getElementById("BuyNowButton");buyNowButton&&buyNowButton.addEventListener("click",function(){window.location.href="/checkout"})});
+//# sourceMappingURL=/cdn/shop/t/2/assets/custom.js.map?v=49488239296919326971730777270

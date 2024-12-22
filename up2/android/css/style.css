@@ -1,0 +1,106 @@
+.wc_payment_method.payment_method_suitpaygateway img,
+    img.primegap-pix-img{
+    width: 52px !important;
+    max-width: 52px !important;
+    height: 52px !important;
+    max-height: 52px !important;
+    background: #f2f2f2;
+    padding: 5px !important;
+    border-radius: 5px;
+    display: inline !important;
+    /* margin-bottom: 20px; */
+    vertical-align: middle !important;
+}
+
+.suitpay-pagamento-content.suitpay-pagamento-pix{
+    text-align: center;
+    margin-top: 12px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    padding: 11px;
+}
+
+
+.suitpay-pix-qrcode{
+    margin-bottom: 30px;
+}
+
+.suitpay-pix-qrcode img{
+    background: #f2f2f2 !important;
+    display: block !important;
+    width: 200px !important;
+    height: 200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 8px !important;
+}
+
+.suitpay-pix-qrcode h2{
+    text-align: left;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    font-size: 14px;
+    background: #f2f2f2;
+    color: #000;
+    border-radius: 8px;
+    overflow-x: scroll;
+    padding: 12px;
+    font-weight: normal;
+    margin-bottom: 24px;
+}
+
+
+.suitpay-pix-qrcode h2 span{
+    color: #000 !important;
+}
+
+
+.suitpay-pix-qrcode h2 small{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 14px;
+}
+
+
+.suitpay-pix-qrcode a.button-confirmar-suitpay-pix,
+.suitpay-pix-qrcode a.button-confirmar-suitpay-pix:hover,
+.suitpay-pix-qrcode a.button-confirmar-suitpay-pix:active,
+.suitpay-pix-qrcode a.button-confirmar-suitpay-pix:focus,
+.suitpay-pix-qrcode a.button-confirmar-suitpay-pix:visited{
+    background: var(--cor-botao) !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    width: 200px;
+    color: var(--cor-botao-texto) !important;
+}
+
+
+.jconfirm-box{
+    max-width: 97% !important;
+    width: 400px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  
+  .super-large-column .jconfirm-box{
+    max-width: 97% !important;
+    width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  
+  
+  .jc-bs3-container.container{
+    max-width: 100% !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }

@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lojaisaleblanc.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lojaisaleblanc.com.br/collections/kits-modeladores.atom"/>
+  <title>Isa Leblanc</title>
+  <updated>2024-11-08T10:36:26-03:00</updated>
+  <author>
+    <name>Isa Leblanc</name>
+  </author>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+    <published>2024-11-08T10:36:26-03:00</published>
+    <updated>2024-11-08T10:36:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-vicky-airslim-edicao-limitada"/>
+    <title>Body Modelador Vicky Airslim - Esquenta Black Friday</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_ccd2d8b6-de6a-476d-bb86-0ecf333784bd.png?v=1722458733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            229.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-fragment="1">
+<em data-mce-fragment="1">Body Modelador Vicky - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 3XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 4XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 5XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 3XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 4XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 5XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+    <published>2024-11-08T10:36:26-03:00</published>
+    <updated>2024-11-08T10:36:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/lingerie-modeladora-liz%C2%AE-edicao-limitada"/>
+    <title>Lingerie Modeladora Liz® - Esquenta Black Friday</title>
+    <s:type>Calcinha Modeladora</s:type>
+    <s:vendor>Isa Leblanc Modeladores</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_3cd87ab1-dea5-4c5c-8d19-024157642b03.png?v=1722446984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc Modeladores<br>
+        <strong>Tipo: </strong>Calcinha Modeladora<br>
+        <strong>Preço: </strong>
+            119.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center><br></center>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;">
+<h3 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">
+<em data-mce-fragment="1">Lingerie Modeladora Liz - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<br>
+</div>
+<center><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/gif_liz-min.gif?v=1694008284" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/gif_liz-min.gif?v=1694008284"></center><center><img height="50" width="270" alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804"></center><center><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/REDUZ_ATE_3_MEDIDAS_1.png?v=1693226547" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/REDUZ_ATE_3_MEDIDAS_1.png?v=1693226547"></center><center><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804" alt="" width="270" height="50" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804"></center><center>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/TEMPLATE.png?v=1693311506" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/TEMPLATE.png?v=1693311506"><img height="50" width="270" alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/64cc004991f93_f4478bac-06b3-4369-a90b-63da5c64d944.png?v=1692298032" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/64cc004991f93_f4478bac-06b3-4369-a90b-63da5c64d944.png?v=1692298032"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/64cc0012854ab.png?v=1692298122" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/64cc0012854ab.png?v=1692298122"><br>
+</center><center></center><center>
+<img height="40" width="216" alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Semnome_1080x200px_480x480.png?v=1692651804"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1080_-_tabela_1.png?v=1694006213" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1080_-_tabela_1.png?v=1694006213">
+</center>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Preto / P (56 -66 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125441</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Preto / M (67 -77 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125443</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Preto / G (78 -88 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Preto / GG (89 -99 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125447</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Preto / XG (100 -110 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125449</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Preto / 2XG (111 -121 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM11254401</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Bege / P (56 -66 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125442</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Bege / M (67 -77 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125444</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Bege / G (78 -88 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125446</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Bege / GG (89 -99 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125448</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Bege / XG (100 -110 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM1125440</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681508136</id>
+      <title>Bege / 2XG (111 -121 kg)</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku>LMLRM11254402</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+    <published>2024-11-08T10:36:25-03:00</published>
+    <updated>2024-11-08T10:36:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-tiana-edicao-limitada"/>
+    <title>Body Modelador Tiana - Esquenta Black Friday</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc Modeladores</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_2aa1c044-6ab8-4271-b5f3-bf1ac36ad071.png?v=1722461847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc Modeladores<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"><img style="float: none;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_82815981-a79b-4f57-a205-54a4b774ffaa.png?v=1723730208"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_be4b8bed-07a0-427a-a51b-f66c745e79bc.png?v=1723730203" alt="" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_29928505-9d06-426d-992d-7dae2fac9c4a.png?v=1723730209" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_5a09c1b8-8cad-437c-b64e-f652f48e2e86.png?v=1723730205" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/23.png?v=1721826633" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/24.png?v=1721826632" style="float: none;"></div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+    <published>2024-11-08T10:36:25-03:00</published>
+    <updated>2024-11-08T10:36:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-ultra-modelador-lara-edicao-limitada"/>
+    <title>Body Ultra Modelador Lara - Esquenta Black Friday</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_7dc0229b-7cda-4691-adc0-4433558ca021.png?v=1711468463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            219.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Body Ultra Modelador Lara</h2>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/18.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/17_d2bc75a9-a0ca-4a44-83bd-8c0f803bf290.png?v=1721826634"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/21.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/20.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/19.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/22.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/23.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/24.png?v=1721826632"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>PRETO / P</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>PRETO / M</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5453</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>PRETO / G</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>PRETO / GG</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>PRETO / XG</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>PRETO / 2XG</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML54512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>BEGE / P</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>BEGE / M</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>BEGE / G</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>BEGE / GG</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML5458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>BEGE / XG</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML54511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434670858536</id>
+      <title>BEGE / 2XG</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku>BUML54513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+    <published>2024-11-07T10:39:43-03:00</published>
+    <updated>2024-11-07T10:39:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/cinta-modeladora-ursula-edicao-limitada"/>
+    <title>Cinta Modeladora Úrsula - Esquenta Black Friday</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/NeoSweat_Core_Control_Latex_Waist_Trainer_4_700x_9c71f589-01a0-4b8d-bbca-1ace20d11d80.webp?v=1724356805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            215.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Cinta Ultra Modeladora Úrsula</h2>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/25.png?v=1721827568"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/26.png?v=1721827568"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/28.png?v=1721827568"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/27.png?v=1721827568"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/23.png?v=1721826633"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/24.png?v=1721826632"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Rosa / P</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Rosa / M</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Rosa / G</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Rosa / GG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Rosa / XG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681278760</id>
+      <title>Rosa / 2XG</title>
+      <s:price currency="BRL">215.90</s:price>
+      <s:sku>CINISACINPRE18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+    <published>2024-10-25T09:38:38-03:00</published>
+    <updated>2024-10-25T09:38:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/cinta-ultra-modelador-nina"/>
+    <title>Combo 2 Bodys Ultra Modelador Nina</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Sem_nome_1024_x_855_px_3_47ec1a58-9390-440c-a7db-089447f87be8.png?v=1729885824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            319.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / P</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / M</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / G</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / GG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / 2XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / 3XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECPBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECMBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECGBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECGGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECXGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPEBC2XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / 3XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPEBC3XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECPPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECMPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECGPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECGGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPECXGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPEC2XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Preto / 3XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku>BODISAPEC2XGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / P</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / M</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / G</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / GG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / 2XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Preto / 3XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / P</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / M</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / G</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / GG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / 2XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Marrom / Bege / 3XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / P</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / M</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / G</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / GG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / 2XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9299714474280</id>
+      <title>Bege / Preto / 3XG</title>
+      <s:price currency="BRL">319.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+    <published>2024-07-25T15:37:08-03:00</published>
+    <updated>2024-07-25T15:37:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-ultra-modelador-nina"/>
+    <title>Cinta Ultra Modeladora Nina</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/S2fb8571f0a454d818400700d32942797t.jpg?v=1711547938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5 style="text-align: center;"><span style="color: rgb(255, 255, 255);">Cinta Ultra Modeladora Nina</span></h5>
+<p><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_15ec2b4a-de8e-40e2-a486-f616cb0e51db.png?v=1721651533" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_15ec2b4a-de8e-40e2-a486-f616cb0e51db.png?v=1721651533"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_a63d9b37-e25b-431b-bc46-da03e6bb0629.png?v=1721651638" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_a63d9b37-e25b-431b-bc46-da03e6bb0629.png?v=1721651638"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/4_845a9abd-5639-4414-b878-9e926e5352f9.png?v=1721651747" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/4_845a9abd-5639-4414-b878-9e926e5352f9.png?v=1721651747"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_a89aa39f-9632-48e4-b84a-1a8fbac0666b.png?v=1721651791" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_a89aa39f-9632-48e4-b84a-1a8fbac0666b.png?v=1721651791"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_2faf57b9-32fa-41a6-aa30-048eeff6faa4.png?v=1721651823" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_2faf57b9-32fa-41a6-aa30-048eeff6faa4.png?v=1721651823"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_5ffdad95-7212-4045-89d1-67601d31ea15.png?v=1721651859" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_5ffdad95-7212-4045-89d1-67601d31ea15.png?v=1721651859"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/8_9fa5ead5-a11a-4c4f-907e-cde73297c7f0.png?v=1721651890" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/8_9fa5ead5-a11a-4c4f-907e-cde73297c7f0.png?v=1721651890"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/9_324d286b-7ca5-4124-87fb-66b63c64726c.png?v=1721651918" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/9_324d286b-7ca5-4124-87fb-66b63c64726c.png?v=1721651918"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/11_89402b92-827c-4864-8733-cb992f9201c7.png?v=1721651948" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/11_89402b92-827c-4864-8733-cb992f9201c7.png?v=1721651948"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Novas_Tabelas_de_Medidas_bc1511e1-5167-488d-9cda-7f977a27c89b.png?v=1725282502" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Novas_Tabelas_de_Medidas_bc1511e1-5167-488d-9cda-7f977a27c89b.png?v=1725282502"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>contador</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECPBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECMBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECXGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC2XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC3XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECPPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECMPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECXGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC2XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC3XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+    <published>2024-05-24T10:44:15-03:00</published>
+    <updated>2024-05-24T10:44:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-modeladores-refinada"/>
+    <title>Kit Modeladores Refinada</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores_6.png?v=1716557611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            479.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Kit Modeladores Refinada:</strong></h1>
+<h3><strong>Esse Kit contém:</strong></h3>
+<ul>
+<li>
+<h3>
+<strong> </strong>1 Body Modelador Nina</h3>
+</li>
+<li>
+<h3>1 Lingerie Modeladora Liz</h3>
+</li>
+<li>
+<h3>1 Cinta Úrsula<br><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_47.png?v=1707241723">
+</h3>
+</li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_68f197d7-f687-41d2-a393-d6398dbe2e0c.png?v=1707422298"></li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/TEMPLATE.png?v=1693311506"></li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_25.png?v=1707241985"></li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_02875909-797c-49cc-af90-0fadc373359c.png?v=1707422673"></li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/REDUZ_ATE_3_MEDIDAS_1.png?v=1693226547"></li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_225a96ca-1659-4e08-8ed1-21a3faf333f0.png?v=1710436211"></li>
+<li><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/10_e6de87e8-b6d8-4e90-bd69-4a03212f771e.png?v=1710525403"></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Preto/ Lingerie Liz Bege / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Preto / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>P / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Preto/ Lingerie Liz Bege / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Preto / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>M / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Preto/ Lingerie Liz Bege / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Preto / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>G / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Preto/ Lingerie Liz Bege / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Preto / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>GG / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Preto/ Lingerie Liz Bege / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Preto / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>XG / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Preto/ Lingerie Liz Bege / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Bege/ Lingerie Liz Preto / Cinta Úsula Preto</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Preto / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Bege</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Marrom / Lingerie Liz Preta / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9238693708072</id>
+      <title>2XG / Body Nina Marrom / Lingerie Liz Bege / Cinta Úsula Preta</title>
+      <s:price currency="BRL">479.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+    <published>2024-05-23T15:54:59-03:00</published>
+    <updated>2024-05-23T15:54:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-modeladores-silhueta-dos-sonhos"/>
+    <title>Kit Modeladores Silhueta dos Sonhos</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores_5.png?v=1716489823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            499.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Kit Modelador Silhueta dos Sonhos:</strong></h1>
+<h3><strong>Esse Kit contém:</strong></h3>
+<ul>
+<li>
+<h3>
+<strong> </strong>1 Body Modelador Nina</h3>
+</li>
+<li>
+<h3>1 Lingerie Modeladora Liz</h3>
+</li>
+<li style="font-weight: bold;">
+<h3>
+<strong>1 Body Modelador Lara</strong><strong></strong>
+</h3>
+</li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_e8021d89-6294-4d23-8ae1-944d1472ba84.png?v=1710435867"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_2a890b56-0238-4425-bcd5-3f82bce3b9a5.png?v=1710525075"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/TEMPLATE.png?v=1693311506"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_1ddbe016-ecba-4fd3-bf7b-13ca1f2feb65.png?v=1710436122"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_abb1416f-8434-4ae8-8c91-aa8b9fa5db9b.png?v=1710525212"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1-min.jpg?v=1692297500"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_04a898d7-4879-4c97-ace2-a23208137b1a.png?v=1710525244"></strong></li>
+<li style="font-weight: bold;"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_21.png?v=1707241930"></strong></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>P / Body Nina Preto / Lingerie Liz Bege / Body Lara Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>P / Body Nina Bege / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>P / Body Nina Preto / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>P / Body Nina Preto / Lingerie Liz Bege / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>M / Body Nina Preto / Lingerie Liz Bege / Body Lara Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>M / Body Nina Bege / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>M / Body Nina Preto / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>M / Body Nina Preto / Lingerie Liz Bege / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>G / Body Nina Preto / Lingerie Liz Bege / Body Lara Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>G / Body Nina Bege / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>G / Body Nina Preto / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>G / Body Nina Preto / Lingerie Liz Bege / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>GG / Body Nina Preto / Lingerie Liz Bege / Body Lara Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>GG / Body Nina Bege / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>GG / Body Nina Preto / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>GG / Body Nina Preto / Lingerie Liz Bege / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>XG / Body Nina Preto / Lingerie Liz Bege / Body Lara Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>XG / Body Nina Bege / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>XG / Body Nina Preto / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>XG / Body Nina Preto / Lingerie Liz Bege / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>2XG / Body Nina Preto / Lingerie Liz Bege / Body Lara Preto</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>2XG / Body Nina Bege / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>2XG / Body Nina Preto / Lingerie Liz Preto / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233747902760</id>
+      <title>2XG / Body Nina Preto / Lingerie Liz Bege / Body Lara Bege</title>
+      <s:price currency="BRL">499.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+    <published>2024-05-23T15:08:54-03:00</published>
+    <updated>2024-05-23T15:08:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-modeladores-curvas-perfeitas"/>
+    <title>Kit Modeladores Curvas Perfeitas</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores_4.png?v=1716487080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            329.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Kit Modeladores Curvas Perfeitas:</strong></h1>
+<h3><strong>Esse Kit contém:</strong></h3>
+<ul>
+<li>
+<h3>
+<strong> </strong>1 Body Modelador Lara</h3>
+</li>
+<li>
+<h3>1 Lingerie Modeladora Liz<br>
+</h3>
+</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/TEMPLATE.png?v=1693311506"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_2a890b56-0238-4425-bcd5-3f82bce3b9a5.png?v=1710525075"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_c5a7b689-f3a4-4032-b19e-00a941af18f8.png?v=1710525181"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/REDUZ_ATE_3_MEDIDAS_1.png?v=1693226547"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_04a898d7-4879-4c97-ace2-a23208137b1a.png?v=1710525244"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/10_e6de87e8-b6d8-4e90-bd69-4a03212f771e.png?v=1710525403"></p>
+<p> </p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>P / Body Lara Preto / Lingerie Liz Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>P / Body Lara Bege / Lingerie Liz Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>M / Body Lara Preto / Lingerie Liz Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>M / Body Lara Bege / Lingerie Liz Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>G / Body Lara Preto / Lingerie Liz Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>G / Body Lara Bege / Lingerie Liz Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>GG / Body Lara Preto / Lingerie Liz Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>GG / Body Lara Bege / Lingerie Liz Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>XG / Body Lara Preto / Lingerie Liz Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>XG / Body Lara Bege / Lingerie Liz Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>2XG / Body Lara Preto / Lingerie Liz Bege</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233678827816</id>
+      <title>2XG / Body Lara Bege / Lingerie Liz Preto</title>
+      <s:price currency="BRL">329.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+    <published>2024-05-23T14:44:46-03:00</published>
+    <updated>2024-05-23T14:44:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-divine-curve"/>
+    <title>Kit Modeladores Divine Curve</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores_2.png?v=1716408715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            379.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Kit Modeladores Divine Curve:</strong></h1>
+<h3><strong>Esse Kit contém:</strong></h3>
+<ul>
+<li>
+<h3>
+<strong> </strong>1 Body Modelador Nina<br>
+</h3>
+</li>
+<li>
+<h3>1 Cinta Úrsula</h3>
+</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_e8021d89-6294-4d23-8ae1-944d1472ba84.png?v=1710435867"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_68f197d7-f687-41d2-a393-d6398dbe2e0c.png?v=1707422298"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_47.png?v=1707241723"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_02875909-797c-49cc-af90-0fadc373359c.png?v=1707422673"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_225a96ca-1659-4e08-8ed1-21a3faf333f0.png?v=1710436211"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/10_e6de87e8-b6d8-4e90-bd69-4a03212f771e.png?v=1710525403"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>P / Cinta Úrsula Preta / Body Nina Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>P / Cinta Úrsula Bege / Body Nina Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>M / Cinta Úrsula Preta / Body Nina Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>M / Cinta Úrsula Bege / Body Nina Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>G / Cinta Úrsula Preta / Body Nina Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>G / Cinta Úrsula Bege / Body Nina Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>GG / Cinta Úrsula Preta / Body Nina Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>GG / Cinta Úrsula Bege / Body Nina Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>XG / Cinta Úrsula Preta / Body Nina Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>XG / Cinta Úrsula Bege / Body Nina Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>2XG / Cinta Úrsula Preta / Body Nina Bege</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232235495720</id>
+      <title>2XG / Cinta Úrsula Bege / Body Nina Preto</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+    <published>2024-05-23T14:44:36-03:00</published>
+    <updated>2024-05-23T14:44:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-elegance"/>
+    <title>Kit Modeladores Elegance</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores.png?v=1716312557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            299.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>Kit Modelador Elegance:</strong></h1>
+<h3><strong>Esse Kit contém:</strong></h3>
+<ul>
+<li>
+<h3>
+<strong> </strong>1 Body Modelador Nina</h3>
+</li>
+<li>
+<h3>1 Lingerie Modeladora Liz</h3>
+</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Design_sem_nome.png?v=1710440012" alt="Design sem nome.png__PID:daf48570-24bb-4216-9844-4c489567b395"></p>
+<p><img style="font-size: 0.875rem;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_abbe3897-7b24-47d3-a3bd-ccad2715f314.png?v=1713979618" alt="2.png__PID:5e32f656-c9e8-447d-b923-72658a49362a"><img style="font-size: 0.875rem;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_d4784bc9-77d2-45ba-8205-fd6f725719e4.png?v=1713978691" alt="1.png__PID:91cdab64-d543-4f24-9d76-48225e32f656"><img style="font-size: 0.875rem;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Design_sem_nome_1.png?v=1710442196" alt="Design sem nome (1).png__PID:dd44aed5-5708-46a4-aa1f-cb29fc7f17f1"><img style="font-size: 0.875rem;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/TEMPLATE.png?v=1693311506" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_47.png?v=1707241723" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_45.png?v=1707241830" alt=""></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/9_64dd2feb-4f57-4868-8c64-776904813616.png?v=1710436343"></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>P / Body Preto/ Lingerie Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>P / Body Bege/ Lingerie Preta</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>M / Body Preto/ Lingerie Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>M / Body Bege/ Lingerie Preta</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>G / Body Preto/ Lingerie Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>G / Body Bege/ Lingerie Preta</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>GG / Body Preto/ Lingerie Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>GG / Body Bege/ Lingerie Preta</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>XG / Body Preto/ Lingerie Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>XG / Body Bege/ Lingerie Preta</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>2XG / Body Preto/ Lingerie Bege</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9230420443432</id>
+      <title>2XG / Body Bege/ Lingerie Preta</title>
+      <s:price currency="BRL">299.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+    <published>2024-05-23T14:43:39-03:00</published>
+    <updated>2024-05-23T14:43:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-glamour"/>
+    <title>Kit Modeladores Glamour</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores_1_d4a91fb0-0478-4d53-be86-4740dc8f2460.png?v=1716405434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            369.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Kit Modeladores Glamour</h1>
+<h2><strong>Esse kit contém:</strong></h2>
+<h3>1 Body Modelador Lara</h3>
+<h3>1 Body Modelador Nina</h3>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_2a890b56-0238-4425-bcd5-3f82bce3b9a5.png?v=1710525075"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_225a96ca-1659-4e08-8ed1-21a3faf333f0.png?v=1710436211"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_04a898d7-4879-4c97-ace2-a23208137b1a.png?v=1710525244"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_1ddbe016-ecba-4fd3-bf7b-13ca1f2feb65.png?v=1710436122"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_7f4c1a3d-2f72-4f2c-8ba4-98f3ff726cbc.png?v=1710525045"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/10_e6de87e8-b6d8-4e90-bd69-4a03212f771e.png?v=1710525403"></p>
+<p> </p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>P / Body Lara Bege / Body Nina Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>P / Body Lara Preto / Body Nina Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>P / Body Lara Preto / Body Nina Marrom</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>M / Body Lara Bege / Body Nina Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>M / Body Lara Preto / Body Nina Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>M / Body Lara Preto / Body Nina Marrom</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>G / Body Lara Bege / Body Nina Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>G / Body Lara Preto / Body Nina Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>G / Body Lara Preto / Body Nina Marrom</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>GG / Body Lara Bege / Body Nina Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>GG / Body Lara Preto / Body Nina Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>GG / Body Lara Preto / Body Nina Marrom</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>XG / Body Lara Bege / Body Nina Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>XG / Body Lara Preto / Body Nina Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>XG / Body Lara Preto / Body Nina Marrom</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>2XG / Body Lara Bege / Body Nina Preto</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>2XG / Body Lara Preto / Body Nina Bege</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9232166813992</id>
+      <title>2XG / Body Lara Preto / Body Nina Marrom</title>
+      <s:price currency="BRL">369.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+    <published>2024-05-23T14:31:07-03:00</published>
+    <updated>2024-05-23T14:31:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-modeladores-essence"/>
+    <title>Kit Modeladores Essence</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/KitsModeladores_3.png?v=1716484069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            429.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Kit Modeladores Essence</h1>
+<h2><strong>Esse kit contém:</strong></h2>
+<h3>1 Body Modelador Lara</h3>
+<h3>1 Cinta Modeladora Úrsula</h3>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_2a890b56-0238-4425-bcd5-3f82bce3b9a5.png?v=1710525075"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_83601bbb-0f9b-4711-a32c-c157d63fc5af.png?v=1700168410"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/9_d141b43b-334d-4f63-8112-5dfeac2530c8.png?v=1710525332"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_02875909-797c-49cc-af90-0fadc373359c.png?v=1707422673"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_04a898d7-4879-4c97-ace2-a23208137b1a.png?v=1710525244"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/10_e6de87e8-b6d8-4e90-bd69-4a03212f771e.png?v=1710525403"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>P / Body Lara Preto / Cinta Úrsula Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>P / Body Lara Bege / Cinta Úrsula Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>M / Body Lara Preto / Cinta Úrsula Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>M / Body Lara Bege / Cinta Úrsula Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>G / Body Lara Preto / Cinta Úrsula Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>G / Body Lara Bege / Cinta Úrsula Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>GG / Body Lara Preto / Cinta Úrsula Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>GG / Body Lara Bege / Cinta Úrsula Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>XG / Body Lara Preto / Cinta Úrsula Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>XG / Body Lara Bege / Cinta Úrsula Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>2XG / Body Lara Preto / Cinta Úrsula Bege</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9233635639592</id>
+      <title>2XG / Body Lara Bege / Cinta Úrsula Preto</title>
+      <s:price currency="BRL">429.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+    <published>2023-10-11T20:19:15-03:00</published>
+    <updated>2023-10-11T20:19:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-modeladores-eleve"/>
+    <title>Kit Modeladores Eleve</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Sem_nome_1024_x_855_px_3240_x_3240_px_3.png?v=1726584979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            289.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Kit Eleve - Edição Limitada</h1>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_b3af6f6a-5ee3-4b3a-af7e-0025ddf97cdf.png?v=1721825297" style="display: block; margin-left: auto; margin-right: auto;"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/13_37238379-8a2b-4bf3-9ec6-55882abcceac.png?v=1721825178"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/14_ba5db66a-a40d-437d-aeda-31514b15c5ad.png?v=1721825178"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/CUPOM_ESPECIAL_PRIMEIRA_COaMPRA.png?v=1721825178"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Frame_143.png?v=1721825178"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>P / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>P / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>M / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>M / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>G / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>G / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>GG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>GG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>XG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>XG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>2XG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>2XG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>3XG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>3XG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

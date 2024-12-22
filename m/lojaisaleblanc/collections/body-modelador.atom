@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lojaisaleblanc.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lojaisaleblanc.com.br/collections/body-modelador.atom"/>
+  <title>Isa Leblanc</title>
+  <updated>2024-11-08T10:36:26-03:00</updated>
+  <author>
+    <name>Isa Leblanc</name>
+  </author>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+    <published>2024-11-08T10:36:26-03:00</published>
+    <updated>2024-11-08T10:36:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-vicky-airslim-edicao-limitada"/>
+    <title>Body Modelador Vicky Airslim - Esquenta Black Friday</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_ccd2d8b6-de6a-476d-bb86-0ecf333784bd.png?v=1722458733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            229.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-fragment="1">
+<em data-mce-fragment="1">Body Modelador Vicky - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 3XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 4XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Preto / 5XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 3XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 4XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434682687784</id>
+      <title>Bege / 5XG</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+    <published>2024-11-08T10:36:25-03:00</published>
+    <updated>2024-11-08T10:36:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-tiana-edicao-limitada"/>
+    <title>Body Modelador Tiana - Esquenta Black Friday</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc Modeladores</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_2aa1c044-6ab8-4271-b5f3-bf1ac36ad071.png?v=1722461847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc Modeladores<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"><img style="float: none;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_82815981-a79b-4f57-a205-54a4b774ffaa.png?v=1723730208"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_be4b8bed-07a0-427a-a51b-f66c745e79bc.png?v=1723730203" alt="" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_29928505-9d06-426d-992d-7dae2fac9c4a.png?v=1723730209" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_5a09c1b8-8cad-437c-b64e-f652f48e2e86.png?v=1723730205" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/23.png?v=1721826633" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/24.png?v=1721826632" style="float: none;"></div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9434681016616</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+    <published>2024-07-31T09:50:08-03:00</published>
+    <updated>2024-07-31T09:50:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-tiana"/>
+    <title>Body Modelador Tiana</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc Modeladores</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_2aa1c044-6ab8-4271-b5f3-bf1ac36ad071.png?v=1722461847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc Modeladores<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"><img style="float: none;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_82815981-a79b-4f57-a205-54a4b774ffaa.png?v=1723730208"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_be4b8bed-07a0-427a-a51b-f66c745e79bc.png?v=1723730203" alt="" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_29928505-9d06-426d-992d-7dae2fac9c4a.png?v=1723730209" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_5a09c1b8-8cad-437c-b64e-f652f48e2e86.png?v=1723730205" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/23.png?v=1721826633" style="float: none;"></div>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/24.png?v=1721826632" style="float: none;"></div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Preto / P</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Preto / M</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Preto / G</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Preto / GG</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Preto / XG</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Preto / 2XG</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Bege / P</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Bege / M</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Bege / G</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Bege / GG</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Bege / XG</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/9388829540648</id>
+      <title>Bege / 2XG</title>
+      <s:price currency="BRL">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+    <published>2024-07-25T15:37:08-03:00</published>
+    <updated>2024-07-25T15:37:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-ultra-modelador-nina"/>
+    <title>Cinta Ultra Modeladora Nina</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/S2fb8571f0a454d818400700d32942797t.jpg?v=1711547938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5 style="text-align: center;"><span style="color: rgb(255, 255, 255);">Cinta Ultra Modeladora Nina</span></h5>
+<p><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_15ec2b4a-de8e-40e2-a486-f616cb0e51db.png?v=1721651533" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_15ec2b4a-de8e-40e2-a486-f616cb0e51db.png?v=1721651533"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_a63d9b37-e25b-431b-bc46-da03e6bb0629.png?v=1721651638" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_a63d9b37-e25b-431b-bc46-da03e6bb0629.png?v=1721651638"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/4_845a9abd-5639-4414-b878-9e926e5352f9.png?v=1721651747" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/4_845a9abd-5639-4414-b878-9e926e5352f9.png?v=1721651747"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_a89aa39f-9632-48e4-b84a-1a8fbac0666b.png?v=1721651791" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_a89aa39f-9632-48e4-b84a-1a8fbac0666b.png?v=1721651791"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_2faf57b9-32fa-41a6-aa30-048eeff6faa4.png?v=1721651823" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/6_2faf57b9-32fa-41a6-aa30-048eeff6faa4.png?v=1721651823"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_5ffdad95-7212-4045-89d1-67601d31ea15.png?v=1721651859" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/7_5ffdad95-7212-4045-89d1-67601d31ea15.png?v=1721651859"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/8_9fa5ead5-a11a-4c4f-907e-cde73297c7f0.png?v=1721651890" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/8_9fa5ead5-a11a-4c4f-907e-cde73297c7f0.png?v=1721651890"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/9_324d286b-7ca5-4124-87fb-66b63c64726c.png?v=1721651918" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/9_324d286b-7ca5-4124-87fb-66b63c64726c.png?v=1721651918"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/11_89402b92-827c-4864-8733-cb992f9201c7.png?v=1721651948" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/11_89402b92-827c-4864-8733-cb992f9201c7.png?v=1721651948"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Novas_Tabelas_de_Medidas_bc1511e1-5167-488d-9cda-7f977a27c89b.png?v=1725282502" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Novas_Tabelas_de_Medidas_bc1511e1-5167-488d-9cda-7f977a27c89b.png?v=1725282502"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>contador</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Marrom / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECPBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECMBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECXGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC2XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Bege / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC3XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECPPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECMPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECGGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPECXGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC2XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Preto / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku>BODISAPEC3XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / P / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / M / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / G / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / GG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / 2XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8546149695784</id>
+      <title>Branco / 3XG / Curto</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+    <published>2023-11-09T17:22:23-03:00</published>
+    <updated>2023-11-09T17:22:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-scoop-jade-1"/>
+    <title>Body Modelador Scoop Jade</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_f6bf070c-0364-404e-9fcd-237038c7159d.png?v=1722461543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            219.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-fragment="1">
+<em data-mce-fragment="1">Body Modelador Jade - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<p><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/SimpleBookmarkwithonemorepagequote_2x10in_2_8371ec29-9abc-4b33-b546-4a234f367642.png?v=1699561567" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/SimpleBookmarkwithonemorepagequote_2x10in_2_8371ec29-9abc-4b33-b546-4a234f367642.png?v=1699561567"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/SimpleBookmarkwithonemorepagequote_2x10in_1_9d1cb694-d219-4e71-adab-e168b21d1882.png?v=1699561308" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/SimpleBookmarkwithonemorepagequote_2x10in_1_9d1cb694-d219-4e71-adab-e168b21d1882.png?v=1699561308"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>P / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>M / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>G / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>GG / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>XG / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>2XG / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>3XG / Preto</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8772226253096</id>
+      <title>3XG / Branco</title>
+      <s:price currency="BRL">219.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+    <published>2023-10-11T20:19:15-03:00</published>
+    <updated>2023-10-11T20:19:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/kit-modeladores-eleve"/>
+    <title>Kit Modeladores Eleve</title>
+    <s:type></s:type>
+    <s:vendor>Isa Leblanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Sem_nome_1024_x_855_px_3240_x_3240_px_3.png?v=1726584979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Isa Leblanc<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            289.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Kit Eleve - Edição Limitada</h1>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_b3af6f6a-5ee3-4b3a-af7e-0025ddf97cdf.png?v=1721825297" style="display: block; margin-left: auto; margin-right: auto;"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/13_37238379-8a2b-4bf3-9ec6-55882abcceac.png?v=1721825178"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/14_ba5db66a-a40d-437d-aeda-31514b15c5ad.png?v=1721825178"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/CUPOM_ESPECIAL_PRIMEIRA_COaMPRA.png?v=1721825178"><img alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/Frame_143.png?v=1721825178"></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>P / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>P / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>M / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>M / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>G / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>G / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>GG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>GG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>XG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>XG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE88540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>2XG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>2XG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>3XG / Preto / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8708876304680</id>
+      <title>3XG / Bege / Tamanho ùnico</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>KMEVE885414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+    <published>2023-08-17T20:04:04-03:00</published>
+    <updated>2023-08-17T20:04:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-vicky-airslim"/>
+    <title>Body Modelador Vicky Airslim</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_ccd2d8b6-de6a-476d-bb86-0ecf333784bd.png?v=1722458733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            229.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-fragment="1">
+<em data-mce-fragment="1">Body Modelador Vicky - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>P / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>M / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>G / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>GG / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>XG / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>2XG / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>3XG / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>3XG / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>4XG / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>4XG / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>5XG / Preto</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507202404648</id>
+      <title>5XG / Bege</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+    <published>2023-08-17T19:37:03-03:00</published>
+    <updated>2023-08-17T19:37:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-maxshaper%C2%AE"/>
+    <title>Body Modelador Maxshaper®</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/4_d10bf743-d1a2-4c03-8f26-27188d31cf5e.png?v=1722460948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            279.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-fragment="1">
+<em data-mce-fragment="1">Body Modelador Maxshaper - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<p><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58b1641cf/641c58b1641d5.png" alt="641c58b1641d5.png" width="692" height="1384" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58b1641cf/641c58b1641d5.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58bd729a9/641c58bd729af.png" alt="641c58bd729af.png" width="935" height="1870" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58bd729a9/641c58bd729af.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58eccf422/641c58eccf42a.png" alt="641c58eccf42a.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58eccf422/641c58eccf42a.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58fca2a1e/641c58fca2a25.png" alt="641c58fca2a25.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c58fca2a1e/641c58fca2a25.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c6186cef6f/641c6186cef78.png" alt="641c6186cef78.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/641c6186cef6f/641c6186cef78.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/642d6bea4eb18/642d6bea4eb1f.png" alt="642d6bea4eb1f.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/642d6bea4eb18/642d6bea4eb1f.png"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>P / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>P / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>P / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>P / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>M / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>M / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>M / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>M / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>G / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1229</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>G / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>G / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>G / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>GG / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>GG / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>GG / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>GG / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>XG / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>XG / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>XG / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR12210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>XG / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>2XG / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>2XG / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>2XG / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>2XG / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>3XG / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>3XG / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>3XG / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>3XG / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR122129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>4XG / Preto / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1221220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>4XG / Preto / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1221221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>4XG / Bege / Grossa</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1221222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8507061272872</id>
+      <title>4XG / Bege / Fina</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku>MSPR1221223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+    <published>2023-08-17T17:48:54-03:00</published>
+    <updated>2023-08-17T17:48:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-divas-mell"/>
+    <title>Body Modelador Divas Mell</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/5_5fbec32b-e0df-443c-a68b-3c312ad66978.png?v=1722460730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            289.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>
+<br>
+<h3 data-mce-fragment="1">
+<em data-mce-fragment="1">Body Modelador Mel - </em><em data-mce-fragment="1">Acelere a Transformação do seu Corpo</em>
+</h3>
+<iframe src="https://cdn.shopify.com/videos/c/o/v/0cd355f11ef94d3ea4bef3bc3bab9fda.mp4" height="630" width="840"></iframe>
+</center>
+<div>
+<img style="display: block; margin-left: auto; margin-right: auto;" alt="" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_37dffd65-297b-461f-8825-3585430e042b_480x480.png?v=1692383454" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_37dffd65-297b-461f-8825-3585430e042b_480x480.png?v=1692383454"><br><br><br>
+</div>
+<p><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/642c86218c352/642c86218c358.png" alt="642c86218c358.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/642c86218c352/642c86218c358.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/64ce78068107a/64ce78068107d.png" alt="64ce78068107d.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/64ce78068107a/64ce78068107d.png"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/642c862fd3a4c/642c862fd3a54.png" alt="642c862fd3a54.png" data-mce-fragment="1" data-mce-src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/642c862fd3a4c/642c862fd3a54.png"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>P / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>P / Marrom</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>M / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>M / Marrom</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>G / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>G / Marrom</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL111119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>GG / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>GG / Marrom</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>XG / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>XG / Marrom</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>2XG / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8506544029992</id>
+      <title>2XG / Marrom</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>MEL1111128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+    <published>2023-08-17T15:08:35-03:00</published>
+    <updated>2023-08-17T15:08:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://lojaisaleblanc.com.br/products/body-modelador-bell-renda%C2%AE"/>
+    <title>Body Modelador Bell Renda®</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_c3d1c4ae-7b11-4387-8445-a2205fdb22b3.png?v=1722460367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            289.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><br></h3>
+<h3 style="text-align: center;">
+<em>Body Modelador Bell - </em><em>Acelere a Transformação do seu Corpo</em>
+</h3>
+<h3 style="text-align: center;"><iframe src="https://cdn.shopify.com/videos/c/o/v/f90c1a21833948159e5c2073dbdb1481.mp4" height="630" width="840"></iframe></h3>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/2_34215fa8-1f6e-4faf-adca-fca1e24ad02f.png?v=1692382810" style="margin: 100px 34px 16px 34px; float: none;"></div>
+<p> </p>
+<div data-pf-type="Row" class="sc-efQSVx kdrjec pf-26_ pf-r pf-r-eh">
+<div class="pf-c">
+<div style="text-align: start;" class="sc-eySxxw fIKYYX pf-27_" data-pf-type="Column">
+<h1 style="text-align: center;" class="sc-hiwPVj bcyuPn pf-28_" data-pf-type="Heading2" spellcheck="false" tabindex="0"><span style="color: #f17ec3;"><em><strong>"Nem sinto que estou usando um modelador"</strong></em></span></h1>
+<h1 style="text-align: center;"> <img style="margin-bottom: 16px; float: none;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/3_34.png?v=1692373933" data-mce-fragment="1">
+</h1>
+<h1 style="text-align: center;"><img style="margin-bottom: 16px; float: none;" src="https://cdn.shopify.com/s/files/1/0810/5639/9656/files/1_34.png?v=1692373933" data-mce-fragment="1"></h1>
+<h1 style="text-align: center;"><br></h1>
+<h1 style="text-align: center;"><br></h1>
+</div>
+</div>
+</div>
+<div style="text-align: start;"><img src="https://s3.sa-east-1.amazonaws.com/king-assets.yampi.me/dooki/6414a151812b8/6414a151812c0.png" alt="6414a151812c0.png" style="margin-top: 100px; margin-right: 75.5px; margin-left: 75.5px; float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blackfriday</s:tag>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>P / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL111111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>P / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>M / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>M / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>G / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>G / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>GG / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>GG / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>XG / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>XG / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>2XG / Preto</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lojaisaleblanc.com.br/products/8505943720232</id>
+      <title>2XG / Branco</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku>BEL1111122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
